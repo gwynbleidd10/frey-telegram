@@ -1,6 +1,6 @@
 {
-  "name": "frey-telegram",
-  "version": "1.0.1",
+  "name": "@freythelazy/telegram-api",
+  "version": "0.1.0",
   "description": "telegram api for node js",
   "main": "index.js",
   "scripts": {
@@ -8,11 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gwynbleidd10/frey-telegram"
+    "url": "git+https://github.com/gwynbleidd10/frey-telegram.git"
   },
   "keywords": [
     "telegram API"
   ],
   "author": "Frey",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gwynbleidd10/frey-telegram/issues"
+  },
+  "homepage": "https://github.com/gwynbleidd10/frey-telegram#readme"
 }
